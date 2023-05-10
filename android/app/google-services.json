@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446239256463",
+    "project_id": "chatglo",
+    "storage_bucket": "chatglo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446239256463:android:c676f90b39d8074b3a25fa",
+        "android_client_info": {
+          "package_name": "com.example.chatglo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446239256463-e4cdcjsiovpbape4ptcvtvr5puumm3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-F_kJPMu8A72diY9wMMENT53wd5RCKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446239256463-0ua5e7uf2hk6uvc661vsp383kbrf8ubj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
